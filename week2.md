@@ -26,10 +26,9 @@
     - state에 대한 문서를 보면서 어떻게 state변수를 선언할지에 대한 가이드를 얻었다.  
 
     [Hooks FAQ - React](https://ko.reactjs.org/docs/hooks-faq.html#how-does-react-associate-hook-calls-with-components)
-
-
+    
     [Using the State Hook - React](https://reactjs.org/docs/hooks-state.html#tip-using-multiple-state-variables)
-
+    
 - 관심사의 분리  
     잘 와닿지 않아....😫😫😫😫😫😫😫
 
